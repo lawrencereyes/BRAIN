@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 '''
-Video capture sample.
+Video capture module.
 
 Sample shows how VideoCapture class can be used to acquire video
 frames from a camera of a movie file. Also the sample provides
