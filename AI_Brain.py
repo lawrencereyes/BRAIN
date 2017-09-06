@@ -13,7 +13,8 @@
 #   
 #   Right Side:
 #       -Spatial ability
-#       -Face pecognition
+#       -Face recognition
+#       -Face detection [DONE]
 #       -Musical processing
 #       -Logic (Rough estimations and comparisons)
 #       -Visual processing
